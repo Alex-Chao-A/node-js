@@ -1,0 +1,19 @@
+{
+  "name": "alex-book",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "'alex 图书系统'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "图书"
+  ],
+  "author": "alex",
+  "dependencies": {
+    "@mysql.js/mysql": "^0.8.0",
+    "art-template": "^4.13.2",
+    "express": "^4.17.1"
+  }
+}
